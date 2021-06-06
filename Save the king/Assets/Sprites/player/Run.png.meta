@@ -20,90 +20,6 @@ TextureImporter:
   - first:
       213: -2217414122262695004
     second: Run_5
-  - first:
-      213: -4440497016933152808
-    second: Run_6
-  - first:
-      213: 8676454946275842879
-    second: Run_7
-  - first:
-      213: -6351944509545543589
-    second: Run_8
-  - first:
-      213: 2158891789428380870
-    second: Run_9
-  - first:
-      213: 9151066736925549315
-    second: Run_10
-  - first:
-      213: -7266845314124737194
-    second: Run_11
-  - first:
-      213: -5168576596277122810
-    second: Run_12
-  - first:
-      213: -7303085922518154401
-    second: Run_13
-  - first:
-      213: -3387832490922303652
-    second: Run_14
-  - first:
-      213: 2196459547150753776
-    second: Run_15
-  - first:
-      213: -2969576599511150121
-    second: Run_16
-  - first:
-      213: -1100304572229716114
-    second: Run_17
-  - first:
-      213: -1286830556838052669
-    second: Run_18
-  - first:
-      213: -4740722875278701659
-    second: Run_19
-  - first:
-      213: -6219685122133649782
-    second: Run_20
-  - first:
-      213: -5210376377794636309
-    second: Run_21
-  - first:
-      213: -227415817694919712
-    second: Run_22
-  - first:
-      213: 2448761691846615139
-    second: Run_23
-  - first:
-      213: -8619701624676006709
-    second: Run_24
-  - first:
-      213: -2187387491920451328
-    second: Run_25
-  - first:
-      213: -314372617269588817
-    second: Run_26
-  - first:
-      213: -1421584596269389621
-    second: Run_27
-  - first:
-      213: -3001407226067449113
-    second: Run_28
-  - first:
-      213: 2131885599912629922
-    second: Run_29
-  - first:
-      213: -3457748248120550607
-    second: Run_30
-  - first:
-      213: -1973870562292210929
-    second: Run_31
-  - first:
-      213: 3274504892145361480
-    second: Run_32
-  - first:
-      213: 3071764753715982671
-    second: Run_33
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -220,10 +136,10 @@ TextureImporter:
       name: Run_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 55
-        width: 25
-        height: 37
+        x: 52
+        y: 49
+        width: 34
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +157,10 @@ TextureImporter:
       name: Run_1
       rect:
         serializedVersion: 2
-        x: 206
-        y: 59
-        width: 33
-        height: 34
+        x: 185
+        y: 49
+        width: 40
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +178,10 @@ TextureImporter:
       name: Run_2
       rect:
         serializedVersion: 2
-        x: 360
-        y: 57
-        width: 25
-        height: 36
+        x: 324
+        y: 49
+        width: 32
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,10 +199,10 @@ TextureImporter:
       name: Run_3
       rect:
         serializedVersion: 2
-        x: 514
-        y: 55
-        width: 18
-        height: 37
+        x: 457
+        y: 49
+        width: 34
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,10 +220,10 @@ TextureImporter:
       name: Run_4
       rect:
         serializedVersion: 2
-        x: 659
-        y: 55
-        width: 27
-        height: 36
+        x: 590
+        y: 49
+        width: 36
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,10 +241,10 @@ TextureImporter:
       name: Run_5
       rect:
         serializedVersion: 2
-        x: 806
-        y: 63
-        width: 34
-        height: 29
+        x: 730
+        y: 49
+        width: 31
+        height: 37
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -338,48 +254,6 @@ TextureImporter:
       bones: []
       spriteID: 4a3f89aaa992a31e0800000000000000
       internalID: -2217414122262695004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run_6
-      rect:
-        serializedVersion: 2
-        x: 959
-        y: 57
-        width: 27
-        height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8d784876d7f2062c0800000000000000
-      internalID: -4440497016933152808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Run_7
-      rect:
-        serializedVersion: 2
-        x: 1113
-        y: 55
-        width: 19
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f3bd376cdc5f86870800000000000000
-      internalID: 8676454946275842879
       vertices: []
       indices: 
       edges: []

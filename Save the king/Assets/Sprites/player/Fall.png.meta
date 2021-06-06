@@ -8,30 +8,6 @@ TextureImporter:
   - first:
       213: -2069157278089061004
     second: Fall_1
-  - first:
-      213: 6596617931644657277
-    second: Fall_2
-  - first:
-      213: 7514022213351704123
-    second: Fall_3
-  - first:
-      213: 4554010780549788214
-    second: Fall_4
-  - first:
-      213: -7552172474170666178
-    second: Fall_5
-  - first:
-      213: -2761696545112888762
-    second: Fall_6
-  - first:
-      213: 1007656813936970757
-    second: Fall_7
-  - first:
-      213: 4325049100246099222
-    second: Fall_8
-  - first:
-      213: 823184671987604067
-    second: Fall_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -148,9 +124,9 @@ TextureImporter:
       name: Fall_0
       rect:
         serializedVersion: 2
-        x: 61
-        y: 55
-        width: 31
+        x: 54
+        y: 48
+        width: 30
         height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -169,10 +145,10 @@ TextureImporter:
       name: Fall_1
       rect:
         serializedVersion: 2
-        x: 211
-        y: 55
-        width: 31
-        height: 38
+        x: 189
+        y: 48
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
