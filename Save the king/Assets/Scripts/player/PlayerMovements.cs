@@ -46,7 +46,16 @@ public class PlayerMovements : MonoBehaviour
         {
 
             animator.SetTrigger("getHit");
-            Debug.Log("Triggered");
+            //Debug.Log("Triggered");
+        }
+
+    }
+
+    public void accidednt()
+    {
+        if (this.gameObject.CompareTag("Player"))
+        {
+            Destroy(this.gameObject);
         }
     }
 }

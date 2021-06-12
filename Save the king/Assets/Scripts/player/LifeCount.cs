@@ -7,8 +7,11 @@ public class LifeCount : MonoBehaviour
 {
     public Image[] lives;
     public int livesRemaining;
-    
+    public gameManager gameManager;
+    public Animator animator;
+    public GameObject player;
 
+    PlayerMovements playerMovements;
     //4 lives - 4 imgaes (0,1,2,3)
     //3 lives - 3 images (0,1,2,[3])
     //2 lives - 2 images (0,1,[2],[3])
@@ -20,25 +23,27 @@ public class LifeCount : MonoBehaviour
 
         if (livesRemaining == 0)
             return;
-        Debug.Log("lost 1" + livesRemaining);
+        
         livesRemaining--;
        
         lives[livesRemaining].enabled = false;
 
-        Debug.Log("lost 2" + livesRemaining);
-        
         if (livesRemaining==0)
         {
-            //FindObjectOfType<Fox>().Die();            
+            /*
+            animator.SetTrigger("isDie");
+            playerMovements.accidednt();
+            */
+            //Debug.Log("gameover ACCIDENT");
+            player.SetActive(false);
+            gameManager.gameOver();
+           
         }
     }
 
     private void Update()
     {
 
-        /*if (Input.GetButtonDown("Jump"))
-            //Debug.Log("lost" + livesRemaining);
-        LoseLife();*/
     }
 
 }
