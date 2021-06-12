@@ -12,7 +12,7 @@ public class EnemyAI : MonoBehaviour
     int idChangeValue = 1;
     //Speed of movement or flying
     public float speed = 2;
-
+    public Animator animator;
 
     private void Update()
     {
@@ -44,11 +44,11 @@ public class EnemyAI : MonoBehaviour
         }
     }
 
-   /* private void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Player")
         {
             FindObjectOfType<LifeCount>().LoseLife();
         }
-    }*/
+    }
 }

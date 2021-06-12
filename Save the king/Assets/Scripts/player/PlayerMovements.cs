@@ -41,5 +41,12 @@ public class PlayerMovements : MonoBehaviour
         {
             Destroy(other.gameObject);
         }
+
+        if (other.gameObject.CompareTag("Snake"))
+        {
+
+            animator.SetTrigger("getHit");
+            Debug.Log("Triggered");
+        }
     }
 }
